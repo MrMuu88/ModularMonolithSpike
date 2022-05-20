@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{56A07514-D377-4D39-85AD-8A3D5D05B753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularMonolithSpike", "ModularMonolithSpike\ModularMonolithSpike.csproj", "{442E2A94-D4CE-4DEE-BD00-230B9ED1EC2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "Auth\Auth.csproj", "{E1DE3798-F508-407E-A9B5-9B12222C0F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A07514-D377-4D39-85AD-8A3D5D05B753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A07514-D377-4D39-85AD-8A3D5D05B753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A07514-D377-4D39-85AD-8A3D5D05B753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A07514-D377-4D39-85AD-8A3D5D05B753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442E2A94-D4CE-4DEE-BD00-230B9ED1EC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442E2A94-D4CE-4DEE-BD00-230B9ED1EC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442E2A94-D4CE-4DEE-BD00-230B9ED1EC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442E2A94-D4CE-4DEE-BD00-230B9ED1EC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DE3798-F508-407E-A9B5-9B12222C0F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DE3798-F508-407E-A9B5-9B12222C0F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DE3798-F508-407E-A9B5-9B12222C0F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DE3798-F508-407E-A9B5-9B12222C0F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4E5B75-15ED-4F98-90CB-8ECBA7DE1B5D}
+	EndGlobalSection
+EndGlobal
